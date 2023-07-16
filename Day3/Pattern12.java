@@ -9,7 +9,7 @@ public class Pattern12
 			for(int j=1;j<=i;j++)
 			{
 				System.out.print(count+" ");
-				count+=n-j;
+				count+=n;
 			}
 		System.out.println();
 		}
